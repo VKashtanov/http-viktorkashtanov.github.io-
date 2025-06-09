@@ -26,9 +26,7 @@
   <a href="https://spring.io/projects/spring-boot" target="_blank">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/>
 </a>
-<a href="https://spring.io/projects/spring-boot" target="_blank">
-  <img src="https://simpleicons.org/icons/springboot.svg" width="40" height="40" style="color:#6DB33F"/>
-</a>
+
 
 </p>
 

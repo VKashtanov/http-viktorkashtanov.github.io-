@@ -20,6 +20,16 @@
   <img src="https://spring.io/images/spring-logo.svg" width="40" height="40" alt="Spring Boot"/>
 </a>
 
+<a href="https://spring.io/projects/spring-boot" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
+</a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/>
+</a>
+<a href="https://spring.io/projects/spring-boot" target="_blank">
+  <img src="https://simpleicons.org/icons/springboot.svg" width="40" height="40" style="color:#6DB33F"/>
+</a>
+
 </p>
 
 **Data Layer:**
@@ -32,7 +42,6 @@
 **Infrastructure & Tools:**
 <p align="left">
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a>
   <a href="https://gradle.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
 </p>

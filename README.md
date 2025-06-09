@@ -43,7 +43,6 @@
 
 **GitHub Activity:**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VKashtanov&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages"/>
   <img src="https://github-readme-stats.vercel.app/api?username=VKashtanov&show_icons=true&theme=city_lights&hide_border=true" alt="GitHub Stats"/>
 </p>
 

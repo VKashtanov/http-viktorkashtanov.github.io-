@@ -16,13 +16,6 @@
 <p align="left"> 
   <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
   <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/></a>
-<a href="https://spring.io/projects/spring-boot" target="_blank">
-  <img src="https://spring.io/images/spring-logo.svg" width="40" height="40" alt="Spring Boot"/>
-</a>
-
-<a href="https://spring.io/projects/spring-boot" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
-</a>
   <a href="https://spring.io/projects/spring-boot" target="_blank">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/>
 </a>
